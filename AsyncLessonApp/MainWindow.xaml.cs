@@ -24,5 +24,15 @@ namespace AsyncLessonApp
         {
             InitializeComponent();
         }
+
+        private void Sync_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Async_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
